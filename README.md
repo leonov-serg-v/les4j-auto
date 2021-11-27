@@ -1,2 +1,2 @@
 "# les4j-auto" 
-Изучаем Hibernate
+Изучаем Hibernate.
